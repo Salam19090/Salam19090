@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salam19090
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning/Generative AI.
 - 💞️ I’m looking to collaborate on new challenging projects.
 - 📫 How to reach me shahnooralam786@gmail.com
 - ⚡ Fun fact: I love to sleep :) 
